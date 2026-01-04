@@ -1,0 +1,5 @@
+users:
+  name | age
+  Alice | 30
+  Bob | 25
+count: 2
