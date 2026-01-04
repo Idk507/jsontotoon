@@ -3,10 +3,10 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "json2toon"
+name = "py-json2toon"
 version = "0.1.0"
 description = "Convert JSON structures into TOON (Token-Oriented Object Notation) for LLM-friendly prompts"
-readme = "README.md"
+readme = "readme.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
