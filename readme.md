@@ -14,7 +14,7 @@ Convert JSON structures into TOON (Token-Oriented Object Notation) and back agai
 ## Install
 
 ```bash
-pip install json2toon
+pip install py-json2toon
 ```
 
 ## CLI usage
