@@ -1,4 +1,4 @@
-# json2toon
+<img width="898" height="570" alt="image" src="https://github.com/user-attachments/assets/40fd8d2d-a73f-476e-bec3-2688e4d2a9fe" /># json2toon
 
 Convert JSON structures into TOON (Token-Oriented Object Notation) and back again, with tooling to measure token savings and create ready-to-send prompts for LLMs.
 
@@ -10,6 +10,8 @@ Convert JSON structures into TOON (Token-Oriented Object Notation) and back agai
 - Prompt helpers to wrap TOON payloads for LLMs
 - Rich CLI with syntax highlighting and reports
 - Fully covered by pytest (39 passing tests)
+- 
+<img width="898" height="570" alt="image" src="https://github.com/user-attachments/assets/688c8ff9-09fe-4bb7-b1f2-a57b24671c47" />
 
 ## Install
 
