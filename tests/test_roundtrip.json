@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice"
+    },
+    {
+      "id": 2,
+      "name": "Bob"
+    }
+  ],
+  "items": [
+    1,
+    2,
+    3
+  ],
+  "settings": {
+    "theme": "dark",
+    "notifications": true
+  }
+}

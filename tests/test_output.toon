@@ -1,0 +1,10 @@
+users:
+  |id | name | |
+  |--------|--------|
+  |1        | Alice    | |
+  |2        | Bob      | |
+items:
+  [1, 2, 3]
+settings:
+  theme: dark
+  notifications: true
